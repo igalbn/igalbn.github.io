@@ -1,0 +1,57 @@
+@font-face {
+    font-family: dosismedium;
+    src: url("../fonts/dosis.medium.ttf");
+    }
+
+    body{
+        margin: 0;
+        padding: 0;
+        background-color: #AEBDCA;
+    }
+
+    header{
+        margin: 0;
+        padding: 0;
+        background-color: #F5EFE6;
+    }
+    h1{
+        font-family: dosismedium;
+        margin: 0;
+        padding: 1vw;
+        text-align: center;
+        background-color: #E8DFCA;
+    }
+    h2{
+        margin: 0;
+        padding: 1vw;
+    }
+    a{
+        
+        margin-left: 1vw;
+        margin-top: 0.001vw;
+        margin-bottom: 0.01vw;
+        text-decoration: none;
+        font-size: x-large;
+    }
+    p{
+        margin-left: 1vw;
+        font-size: x-large;
+    }
+
+    footer {   
+        position:fixed;
+        left:0px;
+        bottom:0px;
+        height:3vw;
+        width:100%;
+        background:#7895B2;
+        padding-top: 0.7vw;
+    }
+
+    img.project{
+        margin-top: 1vw;
+    }
+
+    main.project{
+        text-align: center;
+    }
